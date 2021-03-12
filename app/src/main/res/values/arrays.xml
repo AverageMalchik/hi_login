@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reds">
+        <item>#554343</item>
+        <item>#f6bdc0</item>
+        <item>#f19598</item>
+        <item>#ff7a7a</item>
+        <item>#f07470</item>
+        <item>#ff4646</item>
+        <item>#ea4c46</item>
+        <item>#fc0000</item>
+        <item>#dc1c13</item>
+        <item>#a61804</item>
+        <item>#5d0d02</item>
+    </string-array>
+</resources>
